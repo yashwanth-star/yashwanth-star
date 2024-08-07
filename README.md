@@ -1,7 +1,10 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw00ps0IJunjVobli0Xwv_f4&ust=1723077549913000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiCl5vS4YcDFQAAAAAdAAAAABAE)]
 <h1 align="center">Hi 👋, I'm Yashwanth Jayaramaiah</h1>
 <h3 align="center">A passionate data scientist and machine learning engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Data Science Man Working" width="400">
+</div>
+
 - 🔭 I’m currently working on [Food Desert Classification and Visualization](https://github.com/yashwanth-star/Brooklyn_Food_Desert)
 
 - 🌱 I’m currently learning **Advanced Machine Learning, Geospatial Analysis, Big Data Technologies**
